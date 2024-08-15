@@ -1,0 +1,17 @@
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position: relative;
+    width: 165px;
+    height: 165px;
+    left: 45%;
+    top: 45%;
+    padding: 5px;
+    border: 1px solid black;
+
+}
+.boardRow {
+    width: 165px;
+
+}
